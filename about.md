@@ -4,7 +4,7 @@ layout: page
 permalink: /about/index.html
 ---
 
-![Profile Image]({{ site.url }}/{{ site.picture }})
+![Profile Image]({{ site.url }}/{{ site.picture }}){:style="margin: 30px auto; width: 100px; border-radius: 100%; display: block;"}
 
 #### About
 
