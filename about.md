@@ -10,7 +10,7 @@ permalink: /about/index.html
 
 讷言不敏
 
-#### Email
+#### Contact
 
 > `YWx2aWUuemhhbmdAZ21haWwuY29tCg==`
 
@@ -22,3 +22,4 @@ permalink: /about/index.html
 
 * [Duan Hong](http://dhong.co)
 
+* [Rocky's blog](http://rockywu.me)
