@@ -3,7 +3,7 @@ layout: post
 title: SQLAlchemy中获得add后的AutoField值
 date: 2015-03-17
 description:
-tags: Python, SQLAlchemy"
+tags: Python, SQLAlchemy
 blog: true
 ---
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Poker II交换Alt与Win
-tags: "OS X"
+tags:
+  - OS X
 blog: true
 ---
 
